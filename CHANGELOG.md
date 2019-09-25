@@ -1,3 +1,6 @@
+## 1.0.0
+- Add AndroidX Support
+
 ## 0.2.0+
 - use the device detected locale by default
 
